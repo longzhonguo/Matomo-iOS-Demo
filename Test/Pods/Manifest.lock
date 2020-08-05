@@ -1,0 +1,18 @@
+PODS:
+  - MatomoTracker (7.2.0):
+    - MatomoTracker/Core (= 7.2.0)
+  - MatomoTracker/Core (7.2.0)
+
+DEPENDENCIES:
+  - MatomoTracker (~> 7.2)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - MatomoTracker
+
+SPEC CHECKSUMS:
+  MatomoTracker: 6f89e2561083685a360e223fb663e9ccd57c1d1a
+
+PODFILE CHECKSUM: 3cf8934e71fcd3f334107722995b8760de5fa540
+
+COCOAPODS: 1.9.3
